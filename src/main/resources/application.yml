@@ -1,0 +1,7 @@
+zeebe:
+  client:
+    cloud:
+      cluster-id: XXX
+      client-id: XXX
+      client-secret: XXX
+      region: bru-2
